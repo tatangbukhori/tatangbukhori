@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello there 👋, I'm Tatang Bukhori
+
+! [Weapon Programmer](https://media1.giphy.com/media/3oriO65hNavmBt6AH6/giphy.gif?cid=6c09b952x5f01b6blnl2wrl44odr753pdkka93mqd75uvtys&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g) 
 
 <!--
 **tatangbukhori/tatangbukhori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
