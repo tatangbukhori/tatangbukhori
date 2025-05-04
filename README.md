@@ -44,6 +44,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/tatangbukhori/tatangbukhori/output/snake.svg" alt="Snake animation" />
+<img src=".github/snake.yml" alt="Snake animation" />
 
 ###
