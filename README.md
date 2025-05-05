@@ -1,13 +1,14 @@
-<h1 align="left">Hello There 👋, I'm Tatang Bukhori</h1>
+![Programmer](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
 
-<h4 align="left">Web Programmer</h4>
+<h1 align="center">Hi Everyone 👋, I'm Tatang Bukhori</h1>
 
-![Weapon Programmer](https://media1.giphy.com/media/3oriO65hNavmBt6AH6/giphy.gif?cid=6c09b952x5f01b6blnl2wrl44odr753pdkka93mqd75uvtys&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
+<h4 align="center">Web Programmer</h4>
 
 <h2 align="left">About me</h2>
 
 ###
 
+<p align="left">🚀 Passionate web programmer.</p>
 <p align="left">📚 I'm currently learning vue.js</p>
 
 ###
