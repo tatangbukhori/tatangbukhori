@@ -1,4 +1,6 @@
-![Programmer](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
+<p align="center">
+<img src="https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif" alt="Programmer" width="400" alignment="center"/>
+</p>
 
 <h1 align="center">Hi Everyone 👋, I'm Tatang Bukhori</h1>
 
