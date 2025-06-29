@@ -11,7 +11,7 @@
 ###
 
 <p align="left">🚀 Passionate web programmer.</p>
-<p align="left">📚 I'm currently learning vue.js</p>
+<p align="left">📚 I'm currently learning Express JS</p>
 
 ###
 
